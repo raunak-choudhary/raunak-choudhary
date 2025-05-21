@@ -263,7 +263,7 @@ An award-winning shipping logistics application that simplifies the shipping pro
         <p>Recognized for exceptional contributions to a critical project, meeting stringent licensing requirements, and delivering a 30% improvement in project compliance and efficiency.</p>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Top_10%25_Performer-blue?style=for-the-badge"><br>
+        <img src="https://img.shields.io/badge/%F0%9F%93%8A-Top_10%25_Performer-blue?style=for-the-badge"><br>
         <b>TCS Performance Recognition</b><br>
         <p>Rated in the top 10% of professionals at my level by the manager and supervisor, reflecting consistent high performance and reliability in AWS infrastructure development and management.</p>
       </td>
