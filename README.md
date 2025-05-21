@@ -18,7 +18,7 @@
 const raunak = {
   location: "New York, USA",
   education: {
-    masters: "MS in Computer Science - NYU Tandon (GPA: 3.778/4.0)",
+    masters: "MS in Computer Science - NYU Tandon (GPA: 3.867/4.0)",
     bachelors: "B.E. in Computer Science - VTU (GPA: 8.47/10.0)"
   },
   workExperience: ["AWS Developer at TCS (3 years)", "Data Science & ML Intern"],
