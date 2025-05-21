@@ -18,7 +18,7 @@
 const raunak = {
   location: "New York, USA",
   education: {
-    masters: "MS in Computer Science - NYU Tandon (GPA: 3.867/4.0)",
+    masters: "MS in Computer Science - NYU Tandon (GPA: 3.778/4.0)",
     bachelors: "B.E. in Computer Science - VTU (GPA: 8.47/10.0)"
   },
   workExperience: ["AWS Developer at TCS (3 years)", "Data Science & ML Intern"],
@@ -34,7 +34,7 @@ const raunak = {
   <table>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/NYU-5B2C6F?style=for-the-badge" alt="NYU"></td>
-      <td><b>Master's in Computer Science</b><br>New York University - Tandon School of Engineering<br>GPA: 3.867/4.0 • Expected Graduation: May 2026<br><i>Relevant Coursework: Design and Analysis of Algorithms, Software Engineering, Machine Learning, Deep Learning</i></td>
+      <td><b>Master's in Computer Science</b><br>New York University - Tandon School of Engineering<br>GPA: 3.778/4.0 • Expected Graduation: May 2026<br><i>Relevant Coursework: Design and Analysis of Algorithms, Software Engineering, Machine Learning, Deep Learning</i></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/VTU-E74C3C?style=for-the-badge" alt="VTU"></td>
@@ -411,30 +411,39 @@ An innovative shipping solution that won first place at the I2CONECCT-2021 Proje
   </a>
 </div>
 
+<!-- Contribution Calendar with Time Range Options -->
 <div align="center">
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://github-profile-trophy.vercel.app/?username=raunak-choudhary&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <a href="https://github.com/raunak-choudhary">
+  <h4>View My Contributions</h4>
+  <a href="https://github.com/raunak-choudhary?tab=repositories">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-choudhary&theme=redical&hide_border=true" alt="Raunak's GitHub Activity Graph" />
   </a>
-</div>
-
-<!-- GitHub Metrics -->
-<div align="center">
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raunak-choudhary&theme=radical" alt="Raunak's GitHub Contribution" />
+  
+  <p>View contributions by time period:</p>
+  <a href="https://github.com/raunak-choudhary?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/2025-View%20Contributions-blueviolet?style=for-the-badge" alt="2025 Contributions" />
+  </a>
+  <a href="https://github.com/raunak-choudhary?tab=overview&from=2024-01-01&to=2024-12-31">
+    <img src="https://img.shields.io/badge/2024-View%20Contributions-ff69b4?style=for-the-badge" alt="2024 Contributions" />
+  </a>
+  <a href="https://github.com/raunak-choudhary?tab=overview&from=2023-01-01&to=2023-12-31">
+    <img src="https://img.shields.io/badge/2023-View%20Contributions-9cf?style=for-the-badge" alt="2023 Contributions" />
+  </a>
+  <a href="https://github.com/raunak-choudhary?tab=overview&from=2022-01-01&to=2022-12-31">
+    <img src="https://img.shields.io/badge/2022-View%20Contributions-red?style=for-the-badge" alt="2022 Contributions" />
   </a>
 </div>
 
-<!-- Profile Views Counter (unique visitor count based on IP) -->
+<!-- Top Contributed Repositories -->
 <div align="center">
   <a href="https://github.com/raunak-choudhary">
-    <img src="https://komarev.com/ghpvc/?username=raunak-choudhary&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=raunak-choudhary&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
+  </a>
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   </a>
 </div>
 
@@ -512,3 +521,5 @@ An innovative shipping solution that won first place at the I2CONECCT-2021 Proje
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=raunak-choudhary&color=blueviolet&style=flat-square&label=Profile+Views">
 </div>
+
+---
