@@ -18,7 +18,7 @@
 const raunak = {
   location: "New York, USA",
   education: {
-    masters: "MS in Computer Science - NYU Tandon (GPA: 3.778/4.0)",
+    masters: "MS in Computer Science - NYU Tandon (GPA: 3.889/4.0)",
     bachelors: "B.E. in Computer Science - VTU (GPA: 8.47/10.0)"
   },
   workExperience: ["AWS Developer at TCS (3 years)", "Data Science & ML Intern"],
@@ -34,7 +34,7 @@ const raunak = {
   <table>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/NYU-5B2C6F?style=for-the-badge" alt="NYU"></td>
-      <td><b>Master's in Computer Science</b><br>New York University - Tandon School of Engineering<br>GPA: 3.778/4.0 • Expected Graduation: May 2026<br><i>Relevant Coursework: Design and Analysis of Algorithms, Software Engineering, Machine Learning, Deep Learning</i></td>
+      <td><b>Master's in Computer Science</b><br>New York University - Tandon School of Engineering<br>GPA: 3.889/4.0 • Expected Graduation: May 2026<br><i>Relevant Coursework: Design and Analysis of Algorithms, Software Engineering, Machine Learning, Deep Learning</i></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/VTU-E74C3C?style=for-the-badge" alt="VTU"></td>
@@ -94,6 +94,77 @@ I'm currently focusing on enhancing my skills in:
   </ul>
 </details>
 
+## 🚀 Featured Projects
+
+### CareVault Healthcare App
+<div align="center">
+  <a href="https://github.com/raunak-choudhary/CareVault_Frontend_Repo" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend_Repo-View%20Code-blue?style=for-the-badge&logo=github" alt="Frontend Repository">
+  </a>
+  <a href="https://github.com/raunak-choudhary/CareVault_Backend_Repo" target="_blank">
+    <img src="https://img.shields.io/badge/Backend_Repo-View%20Code-green?style=for-the-badge&logo=github" alt="Backend Repository">
+  </a>
+</div>
+
+A comprehensive healthcare platform that streamlines doctor appointment bookings, provides emergency service access, offers health articles, and includes medication reminders. The application features an intuitive user interface with secure authentication and real-time notifications to enhance the healthcare experience.
+
+**Tech Stack:** React.js, Redux, Material UI, Node.js, Express.js, MongoDB, JWT Authentication, AWS S3
+
+### Adversarial Attacks on ResNet and DenseNet
+<div align="center">
+  <a href="https://github.com/raunak-choudhary/DeepModel-AdversarialAttacks-ResNet-DenseNet" target="_blank">
+    <img src="https://img.shields.io/badge/Adversarial_Attacks-View%20Code-purple?style=for-the-badge&logo=github" alt="Adversarial Attacks Repository">
+  </a>
+</div>
+
+A research-focused project that implements and analyzes various adversarial attack techniques against ResNet and DenseNet architectures. The project evaluates model vulnerabilities and robustness against FGSM, PGD, and CW attacks while proposing defensive strategies to enhance model resilience.
+
+**Tech Stack:** PyTorch, CUDA, NumPy, Matplotlib, scikit-learn, Jupyter Notebook
+
+### RoBERTa-LoRA News Classification
+<div align="center">
+  <a href="https://github.com/raunak-choudhary/RoBERTa-LoRA-News-Classification" target="_blank">
+    <img src="https://img.shields.io/badge/RoBERTa_LoRA-View%20Code-yellow?style=for-the-badge&logo=github" alt="NLP Repository">
+  </a>
+</div>
+
+An NLP project utilizing Parameter-Efficient Fine-Tuning (PEFT) with Low-Rank Adaptation (LoRA) to optimize RoBERTa for news article classification. This approach significantly reduces trainable parameters while maintaining high accuracy, making it ideal for deployment on resource-constrained environments.
+
+**Tech Stack:** Hugging Face Transformers, PyTorch, PEFT, Accelerate, Pandas, scikit-learn
+
+### Shark Tank US Investment Prediction
+<div align="center">
+  <a href="https://github.com/raunak-choudhary/Shark-Tank-US-Investment-Prediction-ML" target="_blank">
+    <img src="https://img.shields.io/badge/Shark_Tank_ML-View%20Code-red?style=for-the-badge&logo=github" alt="Shark Tank Repository">
+  </a>
+</div>
+
+A machine learning project that analyzes Shark Tank US episodes to predict investment outcomes based on pitch characteristics, valuation, equity offered, and entrepreneur backgrounds. The model uses feature engineering and ensemble methods to provide insights into factors influencing successful funding.
+
+**Tech Stack:** Python, pandas, scikit-learn, XGBoost, Matplotlib, Seaborn, NumPy
+
+### SynergyPro - Productivity Platform
+<div align="center">
+  <a href="https://github.com/raunak-choudhary/SynergyPro_NYU_SE_Project" target="_blank">
+    <img src="https://img.shields.io/badge/SynergyPro-View%20Code-teal?style=for-the-badge&logo=github" alt="SynergyPro Repository">
+  </a>
+</div>
+
+A comprehensive productivity platform designed for students and professionals, featuring task management, collaborative workspaces, real-time progress tracking, and personalized scheduling. The application implements a microservices architecture with secure authentication and responsive design.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Material UI, JWT, Socket.io
+
+### TapShip - Shipping Solution
+<div align="center">
+  <a href="https://github.com/raunak-choudhary/Tapship_Undergrad_Final_Project" target="_blank">
+    <img src="https://img.shields.io/badge/TapShip-View%20Code-orange?style=for-the-badge&logo=github" alt="TapShip Repository">
+  </a>
+</div>
+
+An award-winning shipping logistics application that simplifies the shipping process with a user-friendly mobile interface, real-time package tracking, automated notifications, and secure payment gateway integration. The project won first place at the I2CONECCT-2021 Project Competition.
+
+**Tech Stack:** Android, Java, Firebase, Google Maps API, Retrofit, XML, SQLite
+
 ## 🏆 Achievements & Awards
 
 <div align="center">
@@ -122,6 +193,129 @@ I'm currently focusing on enhancing my skills in:
         <img src="https://img.shields.io/badge/📊-Top_10%_Performer-blue?style=for-the-badge"><br>
         <b>TCS Performance Recognition</b><br>
         <p>Rated in the top 10% of professionals at my level by the manager and supervisor, reflecting consistent high performance and reliability in AWS infrastructure development and management.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📜 Certifications & Badges
+
+<h3 align="center">AWS Certifications</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/badges/aws-certified-cloud-practitioner-badge.png" width="180"><br>
+        <b>AWS Certified Cloud Practitioner</b>
+      </td>
+      <td align="center">
+        <img src="./assets/badges/aws-data-analytics-badge.png" width="180"><br>
+        <b>AWS Certified Data Analytics Specialty</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="./assets/certifications/aws-cloud-practitioner-certification.png">
+          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="./assets/certifications/aws-data-analytics-certification.png">
+          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">Microsoft Technology Associate (MTA) Certifications</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/badges/mta-html-certified-badge.png" width="150"><br>
+        <b>MTA: HTML5 Application Development Fundamentals</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Microsoft-MTA%20Networking-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
+        <b>MTA: Networking Fundamentals (98-366)</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Microsoft-MTA%20Python-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
+        <b>MTA: Python Programming (98-381)</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="./assets/certifications/MTA_98-375.jpg">
+          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="./assets/certifications/MTA_98-366.jpg">
+          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="./assets/certifications/MTA_98-381.jpg">
+          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">NYU Tandon LeetCode Bootcamp</h3>
+<div align="center">
+  <img src="./assets/badges/nyu-tandon-leetcode-bootcamp-badge.png" width="180"><br>
+  <b>Competitive Programming & DSA Excellence</b>
+</div>
+
+<h3 align="center">Professional Recognition</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐-TCS%20Star%20of%20the%20Quarter-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="120" width="300"><br>
+        <b>TCS Star of the Quarter (Q3 2023)</b><br>
+        <i>For exceptional contributions to a critical project, meeting stringent licensing requirements, and delivering a 30% improvement in project compliance and efficiency.</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎓 Professional Internships
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="./assets/internships/Verzeo_ML_internship.jpg" width="220"><br>
+        <b>Machine Learning Internship</b><br>
+        <i>Verzeo Edutech Ltd.</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/internships/great-learning-internship.png" width="220"><br>
+        <b>Data Science Internship</b><br>
+        <i>Great Learning Pvt. Ltd.</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/internships/HPE_Internship_Certificate_CCNA.png" width="220"><br>
+        <b>CCNA Networking Internship</b><br>
+        <i>Hewlett Packard Enterprise</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="./assets/internships/Azure_Skynet_Internship.jpg" width="220"><br>
+        <b>Azure Cloud Internship</b><br>
+        <i>Skynet Technologies</i>
+      </td>
+      <td align="center" colspan="2">
+        <img src="./assets/internships/web-development-inmovidu-internship1.png" width="220">
+        <img src="./assets/internships/web-development-inmovidu-internship2.png" width="220"><br>
+        <b>Web Development Internship</b><br>
+        <i>Inmovidu Technologies</i>
       </td>
     </tr>
   </table>
@@ -200,200 +394,6 @@ I'm currently focusing on enhancing my skills in:
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 </div>
 
-## 🚀 Featured Projects
-
-### CareVault Healthcare App
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/CareVault_Frontend_Repo" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend_Repo-View%20Code-blue?style=for-the-badge&logo=github" alt="Frontend Repository">
-  </a>
-  <a href="https://github.com/raunak-choudhary/CareVault_Backend_Repo" target="_blank">
-    <img src="https://img.shields.io/badge/Backend_Repo-View%20Code-green?style=for-the-badge&logo=github" alt="Backend Repository">
-  </a>
-</div>
-
-An innovative healthcare application that enables users to book doctor appointments seamlessly, access emergency services, read health articles, and manage medication reminders. The platform serves 10 major cities with a user-friendly interface for efficient healthcare access.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, AWS
-
-### Deep Learning Projects
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/DeepModel-AdversarialAttacks-ResNet-DenseNet" target="_blank">
-    <img src="https://img.shields.io/badge/Adversarial_Attacks-View%20Code-purple?style=for-the-badge&logo=github" alt="Adversarial Attacks Repository">
-  </a>
-</div>
-
-A comprehensive exploration of adversarial attacks on deep neural networks, focusing on ResNet and DenseNet architectures. Implemented various attack methods to evaluate model robustness and developed defense strategies to improve resilience against adversarial examples.
-
-**Tech Stack:** PyTorch, TensorFlow, NumPy, Matplotlib, CIFAR-10 dataset
-
-### RoBERTa-LoRA News Classification
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/RoBERTa-LoRA-News-Classification" target="_blank">
-    <img src="https://img.shields.io/badge/RoBERTa_LoRA-View%20Code-yellow?style=for-the-badge&logo=github" alt="NLP Repository">
-  </a>
-</div>
-
-Leveraged Low-Rank Adaptation (LoRA) technique to fine-tune RoBERTa model for news article classification, significantly reducing trainable parameters while maintaining high accuracy. The project demonstrates efficient parameter-efficient transfer learning for NLP tasks.
-
-**Tech Stack:** Hugging Face Transformers, PyTorch, PEFT, Pandas, scikit-learn
-
-### Shark Tank US Investment Prediction
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/Shark-Tank-US-Investment-Prediction-ML" target="_blank">
-    <img src="https://img.shields.io/badge/Shark_Tank_ML-View%20Code-red?style=for-the-badge&logo=github" alt="Shark Tank Repository">
-  </a>
-</div>
-
-The project focuses on analyzing Shark Tank data and predicting investment outcomes using machine learning models like Random Forest and XGBoost. It aims to uncover patterns and provide actionable insights influencing business success on Shark Tank.
-
-**Tech Stack:** Python, scikit-learn, XGBoost, Pandas, Matplotlib, Seaborn
-
-### SynergyPro - Productivity Platform
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/SynergyPro_NYU_SE_Project" target="_blank">
-    <img src="https://img.shields.io/badge/SynergyPro-View%20Code-teal?style=for-the-badge&logo=github" alt="SynergyPro Repository">
-  </a>
-</div>
-
-SynergyPro is a productivity platform for students and professionals, offering task management, personalized scheduling, collaboration tools, and progress tracking to balance responsibilities, enhance teamwork, and achieve goals effectively.
-
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Material UI
-
-### TapShip - Shipping Solution
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/Tapship_Undergrad_Final_Project" target="_blank">
-    <img src="https://img.shields.io/badge/TapShip-View%20Code-orange?style=for-the-badge&logo=github" alt="TapShip Repository">
-  </a>
-</div>
-
-An innovative shipping solution that won first place at the I2CONECCT-2021 Project Competition. The application streamlines shipping processes with a user-friendly mobile interface and real-time tracking capabilities.
-
-**Tech Stack:** Java, Android, Firebase, Google Maps API
-
-## 📜 Certifications & Badges
-
-<h3 align="center">AWS Certifications</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./assets/badges/aws-certified-cloud-practitioner-badge.png" width="180"><br>
-        <b>AWS Certified Cloud Practitioner</b>
-      </td>
-      <td align="center">
-        <img src="./assets/badges/aws-data-analytics-badge.png" width="180"><br>
-        <b>AWS Certified Data Analytics Specialty</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="./assets/certifications/aws-cloud-practitioner-certification.png">
-          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/certifications/aws-data-analytics-certification.png">
-          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">Microsoft Technology Associate (MTA) Certifications</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./assets/badges/mta-html-certified-badge.png" width="150"><br>
-        <b>MTA: HTML5 Application Development Fundamentals</b>
-      </td>
-      <td align="center">
-        <b>MTA: Networking Fundamentals (98-366)</b>
-      </td>
-      <td align="center">
-        <b>MTA: Python Programming (98-381)</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="./assets/certifications/MTA_98-375.jpg">
-          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/certifications/MTA_98-366.jpg">
-          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/certifications/MTA_98-381.jpg">
-          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">NYU Tandon LeetCode Bootcamp</h3>
-<div align="center">
-  <img src="./assets/badges/nyu-tandon-leetcode-bootcamp-badge.png" width="180"><br>
-  <b>Competitive Programming & DSA Excellence</b>
-</div>
-
-<h3 align="center">Professional Recognition</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./assets/certifications/tcs-star-award.png" width="250"><br>
-        <b>TCS Star of the Quarter (Q3 2023)</b><br>
-        <i>For exceptional contributions to a critical project, meeting stringent licensing requirements, and delivering a 30% improvement in project compliance and efficiency.</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎓 Professional Internships
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="./assets/internships/Verzeo_ML_internship.jpg" width="220"><br>
-        <b>Machine Learning Internship</b><br>
-        <i>Verzeo Edutech Ltd.</i><br>
-        <small>July 2019 - August 2019</small>
-      </td>
-      <td align="center" width="33%">
-        <img src="./assets/internships/great-learning-internship.png" width="220"><br>
-        <b>Data Science Internship</b><br>
-        <i>Great Learning Pvt. Ltd.</i><br>
-        <small>June 2020 - August 2020</small>
-      </td>
-      <td align="center" width="33%">
-        <img src="./assets/internships/HPE_Internship_Certificate_CCNA.png" width="220"><br>
-        <b>CCNA Networking Internship</b><br>
-        <i>Hewlett Packard Enterprise</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="./assets/internships/Azure_Skynet_Internship.jpg" width="220"><br>
-        <b>Azure Cloud Internship</b><br>
-        <i>Skynet Technologies</i>
-      </td>
-      <td align="center" colspan="2">
-        <img src="./assets/internships/web-development-inmovidu-internship1.png" width="220">
-        <img src="./assets/internships/web-development-inmovidu-internship2.png" width="220"><br>
-        <b>Web Development Internship</b><br>
-        <i>Inmovidu Technologies</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📊 GitHub Statistics & Activity
 
 <div align="center">
@@ -430,13 +430,6 @@ An innovative shipping solution that won first place at the I2CONECCT-2021 Proje
   </a>
   <a href="https://github.com/raunak-choudhary?tab=overview&from=2022-01-01&to=2022-12-31">
     <img src="https://img.shields.io/badge/2022-View%20Contributions-red?style=for-the-badge" alt="2022 Contributions" />
-  </a>
-</div>
-
-<!-- Top Contributed Repositories -->
-<div align="center">
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://github-contributor-stats.vercel.app/api?username=raunak-choudhary&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
   </a>
 </div>
 
@@ -520,6 +513,6 @@ An innovative shipping solution that won first place at the I2CONECCT-2021 Proje
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=raunak-choudhary&color=blueviolet&style=flat-square&label=Profile+Views">
-</div>
+</div
 
 ---
