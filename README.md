@@ -397,20 +397,45 @@ An innovative shipping solution that won first place at the I2CONECCT-2021 Proje
 ## 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raunak-choudhary&show_icons=true&count_private=true&theme=radical&include_all_commits=true&custom_title=Raunak's GitHub Stats" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-choudhary&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" height="170">
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raunak-choudhary&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_border=true" alt="Raunak's GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raunak-choudhary&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=8&hide_border=true" alt="Most Used Languages" height="170" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-choudhary&theme=radical" alt="GitHub Streak">
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-choudhary&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raunak-choudhary&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies">
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://github-profile-trophy.vercel.app/?username=raunak-choudhary&theme=radical&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  </a>
 </div>
 
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raunak-choudhary&theme=radical" alt="Contribution Graph">
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-choudhary&theme=redical&hide_border=true" alt="Raunak's GitHub Activity Graph" />
+  </a>
+</div>
+
+<!-- GitHub Metrics -->
+<div align="center">
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raunak-choudhary&theme=radical" alt="Raunak's GitHub Contribution" />
+  </a>
+</div>
+
+<!-- Profile Views Counter (unique visitor count based on IP) -->
+<div align="center">
+  <a href="https://github.com/raunak-choudhary">
+    <img src="https://komarev.com/ghpvc/?username=raunak-choudhary&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter" />
+  </a>
 </div>
 
 ## 🎯 Professional Goals
