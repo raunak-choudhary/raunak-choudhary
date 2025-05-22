@@ -47,11 +47,12 @@ const raunak = {
 
 I'm currently focusing on enhancing my skills in:
 
+- 🎓 **Master's in Computer Science**: Completing my MS in Computer Science at NYU with a high GPA score and comprehensive knowledge collection across various domains
 - 🧠 **Adversarial Machine Learning**: Developing robust models that can withstand various attack vectors
-- ☁️ **Cloud-Native ML Deployment**: Implementing efficient ML pipelines on AWS infrastructure
-- 🏥 **Healthcare AI Applications**: Creating solutions that can make a positive impact in medical diagnostics and care
+- ☁️ **Multi-Cloud Expertise & DevOps**: Exploring and earning more certifications in Azure and GCP along with AWS, building cloud-native projects integrated with DevOps practices
+- 🤖 **AI Applications Development**: Building diverse AI applications and exploring the AI field in depth to create innovative solutions across various domains
 - 🔍 **Parameter-Efficient Fine-Tuning**: Exploring techniques like LoRA for efficient adaptation of large language models
-- 🌐 **Full-Stack Development**: Building end-to-end applications with React.js frontend and Node.js backend
+- 🌐 **Full-Stack Development**: Building end-to-end applications with trending technologies including React.js, Next.js, TypeScript frontend and Node.js, Express.js, FastAPI backend with modern databases like MongoDB, PostgreSQL
 
 ## 💼 Work Experience
 
