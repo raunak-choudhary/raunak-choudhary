@@ -261,7 +261,7 @@ A comprehensive machine learning project analyzing 1,365 startup pitches from al
 
 A hybrid productivity platform designed for task management and personalized study scheduling for professionals and students. Features include individual and team dashboards, calendar integration, real-time collaboration, file upload with version control, analytics with visual insights, and a help center with task management guides. Supports both individual workflow optimization and team project coordination.
 
-**Tech Stack:** React.js, Node.js, JavaScript, HTML, CSS, SQL, Bootstrap
+**Tech Stack:** React.js, JavaScript, HTML, CSS, SQL, Bootstrap, Django, Python
 
 ### TapShip - Agricultural E-Marketplace
 <div align="center">
