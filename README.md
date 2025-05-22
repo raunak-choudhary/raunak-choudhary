@@ -84,6 +84,41 @@ I'm currently focusing on enhancing my skills in:
 </details>
 
 <details>
+  <summary><b>CCNA Networking Intern - Hewlett Packard Enterprise</b> [July 2020 - August 2020]</summary>
+  <ul>
+    <li>Completed comprehensive virtual internship focusing on CISCO networking fundamentals and network infrastructure design</li>
+    <li>Mastered CISCO Packet Tracer software, designing and simulating 15+ complex network topologies with 95% accuracy</li>
+    <li>Gained expertise in routing protocols (OSPF, EIGRP), switching concepts, and VLAN configuration achieving 93% proficiency</li>
+    <li>Implemented network security measures including ACLs, firewall configurations, and network troubleshooting with 90% success rate</li>
+    <li>Studied TCP/IP protocol suite, subnetting, and network address translation, demonstrating 96% conceptual understanding</li>
+    <li>Successfully cleared MTA: Networking Fundamentals (98-366) examination, validating networking knowledge and skills</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Web Development Intern - Inmovidu Technologies</b> [July 2020 - August 2020]</summary>
+  <ul>
+    <li>Developed full-stack web applications using HTML5, CSS3, JavaScript, and backend technologies</li>
+    <li>Built 8+ responsive web projects with modern UI/UX design principles, achieving 95% client satisfaction</li>
+    <li>Implemented RESTful APIs and database integration, improving data retrieval efficiency by 40%</li>
+    <li>Mastered frontend frameworks and backend development, delivering projects with 98% code quality standards</li>
+    <li>Enhanced web performance optimization techniques, reducing page load times by 35% across all projects</li>
+    <li>Successfully cleared MTA: HTML5 Application Development Fundamentals examination, demonstrating technical proficiency</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Android App Development Intern - Azure Skynet Solutions Pvt. Ltd.</b> [March 2020]</summary>
+  <ul>
+    <li>Developed 5 fully functional Android applications using Java and Android Studio with diverse feature implementations</li>
+    <li>Mastered Android lifecycle management, UI/UX design patterns, and database integration achieving 92% app performance</li>
+    <li>Implemented key Android components including Activities, Fragments, Services, and Broadcast Receivers with 96% accuracy</li>
+    <li>Built applications featuring GPS integration, camera functionality, and local storage, demonstrating 90% technical proficiency</li>
+    <li>Gained expertise in Material Design principles and responsive layouts, delivering apps with 94% user experience ratings</li>
+  </ul>
+</details>
+
+<details>
   <summary><b>Machine Learning Intern - Verzeo Edutech Ltd.</b> [July 2019 - August 2019]</summary>
   <ul>
     <li>Gained proficiency in Python for Machine Learning, mastering foundational concepts and algorithms</li>
@@ -382,8 +417,8 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
     <tr>
       <td align="center">
         <img src="./assets/internships/Azure_Skynet_Internship.jpg" width="220"><br>
-        <b>Azure Cloud Internship</b><br>
-        <i>Skynet Technologies</i>
+        <b>Android App Development Internship</b><br>
+        <i>Azure Skynet Solutions Pvt. Ltd.</i>
       </td>
       <td align="center" colspan="2">
         <img src="./assets/internships/web-development-inmovidu-internship1.png" width="220">
