@@ -179,9 +179,9 @@ I'm currently focusing on enhancing my skills in:
   </a>
 </div>
 
-A comprehensive healthcare platform that streamlines doctor appointment bookings, provides emergency service access, offers health articles, and includes medication reminders. The application features an intuitive user interface with secure authentication and real-time notifications to enhance the healthcare experience.
+An AI-powered healthcare management platform designed to centralize and simplify access to personal medical data. The application enables users to upload, organize, and query medical documents through an intuitive interface, while receiving intelligent support from a Retrieval-Augmented Generation (RAG) system for document understanding and assistance. Features include document storage, appointment tracking, and AI-powered health query responses.
 
-**Tech Stack:** React.js, Redux, Material UI, Node.js, Express.js, MongoDB, JWT Authentication, AWS S3
+**Tech Stack:** React.js, Python, Supabase, PostgreSQL, RAG System, File Storage Buckets
 
 ### Adversarial Attacks on ResNet and DenseNet
 <div align="center">
@@ -190,9 +190,9 @@ A comprehensive healthcare platform that streamlines doctor appointment bookings
   </a>
 </div>
 
-A research-focused project that implements and analyzes various adversarial attack techniques against ResNet and DenseNet architectures. The project evaluates model vulnerabilities and robustness against FGSM, PGD, and CW attacks while proposing defensive strategies to enhance model resilience.
+A comprehensive research project evaluating and enhancing adversarial attacks on deep neural network image classifiers. Implements multiple attack strategies including FGSM, PGD, MI-FGSM, and Patch attacks against pre-trained ResNet-34 and DenseNet-121 models on ImageNet subset. Achieved significant performance degradation (ResNet-34 accuracy dropped from 77.40% to 0.00% with PGD) and analyzed attack transferability across different architectures.
 
-**Tech Stack:** PyTorch, CUDA, NumPy, Matplotlib, scikit-learn, Jupyter Notebook
+**Tech Stack:** PyTorch, TorchVision, NumPy, Matplotlib, Pillow, Jupyter Notebook, ImageNet Dataset
 
 ### RoBERTa-LoRA News Classification
 <div align="center">
@@ -201,9 +201,9 @@ A research-focused project that implements and analyzes various adversarial atta
   </a>
 </div>
 
-An NLP project utilizing Parameter-Efficient Fine-Tuning (PEFT) with Low-Rank Adaptation (LoRA) to optimize RoBERTa for news article classification. This approach significantly reduces trainable parameters while maintaining high accuracy, making it ideal for deployment on resource-constrained environments.
+An advanced NLP project implementing Parameter-Efficient Fine-Tuning (PEFT) with Low-Rank Adaptation (LoRA) to optimize RoBERTa for AG News classification. Achieved 94.59% test accuracy using only 925,444 trainable parameters (0.737% of total model parameters), demonstrating efficient adaptation of large language models for text classification across four news categories: World, Sports, Business, and Sci/Tech.
 
-**Tech Stack:** Hugging Face Transformers, PyTorch, PEFT, Accelerate, Pandas, scikit-learn
+**Tech Stack:** Hugging Face Transformers, PyTorch, PEFT, LoRA, AG News Dataset, Python
 
 ### Shark Tank US Investment Prediction
 <div align="center">
@@ -212,9 +212,9 @@ An NLP project utilizing Parameter-Efficient Fine-Tuning (PEFT) with Low-Rank Ad
   </a>
 </div>
 
-A machine learning project that analyzes Shark Tank US episodes to predict investment outcomes based on pitch characteristics, valuation, equity offered, and entrepreneur backgrounds. The model uses feature engineering and ensemble methods to provide insights into factors influencing successful funding.
+A comprehensive machine learning project analyzing 1,365 startup pitches from all 16 seasons of Shark Tank US to predict investment likelihood and amounts. Utilizes advanced techniques including text embeddings via OpenAI models, SMOTE for class imbalance, and ensemble methods. Features shark-specific prediction models, industry preference analysis, and achieves superior performance with XGBoost for both classification and regression tasks.
 
-**Tech Stack:** Python, pandas, scikit-learn, XGBoost, Matplotlib, Seaborn, NumPy
+**Tech Stack:** Python, XGBoost, Random Forest, SVM, OpenAI Embeddings, SMOTE, PCA, t-SNE, Pandas, scikit-learn
 
 ### SynergyPro - Productivity Platform
 <div align="center">
@@ -223,20 +223,20 @@ A machine learning project that analyzes Shark Tank US episodes to predict inves
   </a>
 </div>
 
-A comprehensive productivity platform designed for students and professionals, featuring task management, collaborative workspaces, real-time progress tracking, and personalized scheduling. The application implements a microservices architecture with secure authentication and responsive design.
+A hybrid productivity platform designed for task management and personalized study scheduling for professionals and students. Features include individual and team dashboards, calendar integration, real-time collaboration, file upload with version control, analytics with visual insights, and a help center with task management guides. Supports both individual workflow optimization and team project coordination.
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux, Material UI, JWT, Socket.io
+**Tech Stack:** React.js, Node.js, JavaScript, HTML, CSS, SQL, Bootstrap
 
-### TapShip - Shipping Solution
+### TapShip - Agricultural E-Marketplace
 <div align="center">
   <a href="https://github.com/raunak-choudhary/Tapship_Undergrad_Final_Project" target="_blank">
     <img src="https://img.shields.io/badge/TapShip-View%20Code-orange?style=for-the-badge&logo=github" alt="TapShip Repository">
   </a>
 </div>
 
-An award-winning shipping logistics application that simplifies the shipping process with a user-friendly mobile interface, real-time package tracking, automated notifications, and secure payment gateway integration. The project won first place at the I2CONECCT-2021 Project Competition.
+A full-stack web-based agricultural e-marketplace platform connecting farmers, customers, and transport drivers to eliminate middlemen and ensure fair crop pricing. Features include crop listing and bidding system, real-time price analytics, weather forecasts, OTP verification, SQL injection protection, and location-based recommendations using machine learning. Won first place at the I2CONECCT-2021 Project Competition.
 
-**Tech Stack:** Android, Java, Firebase, Google Maps API, Retrofit, XML, SQLite
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, Python, MySQL, XAMPP, Bing Maps API, OpenWeatherMap API, Twilio OTP
 
 ## 🏆 Achievements & Awards
 
