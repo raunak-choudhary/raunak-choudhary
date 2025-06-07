@@ -99,7 +99,7 @@ I'm currently focusing on enhancing my skills in:
   <summary><b>Web Development Intern - Inmovidu Technologies</b> [July 2020 - August 2020]</summary>
   <ul>
     <li>Developed full-stack web applications using HTML5, CSS3, JavaScript, and backend technologies</li>
-    <li>Built 8+ responsive web projects with modern UI/UX design principles, achieving 95% client satisfaction</li>
+    <li>Built 3+ responsive web projects with modern UI/UX design principles, achieving 95% client satisfaction</li>
     <li>Implemented RESTful APIs and database integration, improving data retrieval efficiency by 40%</li>
     <li>Mastered frontend frameworks and backend development, delivering projects with 98% code quality standards</li>
     <li>Enhanced web performance optimization techniques, reducing page load times by 35% across all projects</li>
