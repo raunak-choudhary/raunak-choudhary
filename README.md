@@ -23,7 +23,7 @@ const raunak = {
   },
   workExperience: ["AWS Developer at TCS (3 years)", "Data Science & ML Intern"],
   certifications: ["AWS Certified Cloud Practitioner", "AWS Certified Data Analytics - Specialty"],
-  interests: ["Cloud Computing", "Machine Learning", "Deep Learning", "Computer Vision", "NLP"],
+  interests: ["Cloud Computing", "Machine Learning", "Deep Learning", "Computer Vision", "NLP", "Data Science", "Front-End-Development"],
   currentFocus: "Developing robust ML models and cloud-native applications"
 };
 ```
