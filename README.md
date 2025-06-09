@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Raunak Choudhary!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Deep+Learning+Researcher&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Data+Science+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <p align="center">
