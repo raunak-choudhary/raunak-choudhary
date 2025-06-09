@@ -9,7 +9,7 @@
   <a href="mailto:raunakchoudhary17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/raunak-choudhary"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.raunakchoudhary.com"><img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="tel:+19292894648"><img src="https://img.shields.io/badge/Phone-FF9900?style=for-the-badge&logo=google-voice&logoColor=white" alt="Phone"></a>
+  <a href="tel:+19292894648"><img src="https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white" alt="Phone"></a>
 </p>
 
 ## 🚀 About Me
@@ -314,22 +314,22 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" width="200"><br>
+        <img src="./assets/badges/aws-certified-cloud-practitioner-badge.png" width="180"><br>
         <b>AWS Certified Cloud Practitioner</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/AWS-Data_Analytics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" width="200"><br>
+        <img src="./assets/badges/aws-data-analytics-badge.png" width="180"><br>
         <b>AWS Certified Data Analytics Specialty</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="#">
+        <a href="./assets/certifications/aws-cloud-practitioner-certification.png">
           <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="./assets/certifications/aws-data-analytics-certification.png">
           <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
         </a>
       </td>
@@ -342,31 +342,31 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft-HTML5_Development-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="180"><br>
+        <img src="./assets/badges/mta-html-certified-badge.png" width="150"><br>
         <b>MTA: HTML5 Application Development Fundamentals</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft-Networking_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="180"><br>
+        <img src="https://img.shields.io/badge/Microsoft-MTA%20Networking-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
         <b>MTA: Networking Fundamentals (98-366)</b>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft-Python_Programming-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="180"><br>
+        <img src="https://img.shields.io/badge/Microsoft-MTA%20Python-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
         <b>MTA: Python Programming (98-381)</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="#">
+        <a href="./assets/certifications/MTA_98-375.jpg">
           <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="./assets/certifications/MTA_98-366.jpg">
           <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
         </a>
       </td>
       <td align="center">
-        <a href="#">
+        <a href="./assets/certifications/MTA_98-381.jpg">
           <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
         </a>
       </td>
@@ -376,7 +376,7 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
 
 <h3 align="center">NYU Tandon LeetCode Bootcamp</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/NYU-LeetCode_Bootcamp-5B2C6F?style=for-the-badge&logo=leetcode&logoColor=white" width="250"><br>
+  <img src="./assets/badges/nyu-tandon-leetcode-bootcamp-badge.png" width="180"><br>
   <b>Competitive Programming & DSA Excellence</b>
 </div>
 
@@ -385,7 +385,7 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/TCS-Star_Award-FFD700?style=for-the-badge&logo=star&logoColor=black" width="300"><br>
+        <img src="./assets/certifications/tcs-star-award.png" width="250"><br>
         <b>TCS Star of the Quarter (Q3 2023)</b><br>
         <i>For exceptional contributions to a critical project, meeting stringent licensing requirements, and delivering a 30% improvement in project compliance and efficiency.</i>
       </td>
@@ -399,29 +399,30 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Verzeo-Machine_Learning-8B5CF6?style=for-the-badge&logo=python&logoColor=white" width="220"><br>
+        <img src="./assets/internships/Verzeo_ML_internship.jpg" width="220"><br>
         <b>Machine Learning Internship</b><br>
         <i>Verzeo Edutech Ltd.</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Great_Learning-Data_Science-10B981?style=for-the-badge&logo=databricks&logoColor=white" width="220"><br>
+        <img src="./assets/internships/great-learning-internship.png" width="220"><br>
         <b>Data Science Internship</b><br>
         <i>Great Learning Pvt. Ltd.</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/HPE-CCNA_Networking-3B82F6?style=for-the-badge&logo=cisco&logoColor=white" width="220"><br>
+        <img src="./assets/internships/HPE_Internship_Certificate_CCNA.png" width="220"><br>
         <b>CCNA Networking Internship</b><br>
         <i>Hewlett Packard Enterprise</i>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Azure_Skynet-Android_Development-F59E0B?style=for-the-badge&logo=android&logoColor=white" width="220"><br>
+        <img src="./assets/internships/Azure_Skynet_Internship.jpg" width="220"><br>
         <b>Android App Development Internship</b><br>
         <i>Azure Skynet Solutions Pvt. Ltd.</i>
       </td>
       <td align="center" colspan="2">
-        <img src="https://img.shields.io/badge/Inmovidu-Web_Development-EF4444?style=for-the-badge&logo=html5&logoColor=white" width="220"><br>
+        <img src="./assets/internships/web-development-inmovidu-internship1.png" width="220">
+        <img src="./assets/internships/web-development-inmovidu-internship2.png" width="220"><br>
         <b>Web Development Internship</b><br>
         <i>Inmovidu Technologies</i>
       </td>
@@ -446,13 +447,14 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
   </a>
 </div>
 
+<!-- Contribution Calendar with Time Range Options -->
 <div align="center">
-  <h4>🔥 View My Contributions</h4>
+  <h4>View My Contributions</h4>
   <a href="https://github.com/raunak-choudhary?tab=repositories">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-choudhary&theme=redical&hide_border=true" alt="Raunak's GitHub Activity Graph" />
   </a>
   
-  <p>📅 View contributions by time period:</p>
+  <p>View contributions by time period:</p>
   <a href="https://github.com/raunak-choudhary?tab=overview&from=2025-01-01&to=2025-12-31">
     <img src="https://img.shields.io/badge/2025-View%20Contributions-blueviolet?style=for-the-badge" alt="2025 Contributions" />
   </a>
@@ -467,6 +469,7 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
   </a>
 </div>
 
+<!-- Random Dev Quote -->
 <div align="center">
   <a href="https://github.com/raunak-choudhary">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -531,7 +534,7 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
     <img src="https://img.shields.io/badge/Personal_Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Personal Email">
   </a>
   <a href="tel:+19292894648">
-    <img src="https://img.shields.io/badge/Phone-+1_(929)_289_4648-FF9900?style=for-the-badge&logo=google-voice" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-+1_(929)_289_4648-4285F4?style=for-the-badge&logo=google-voice" alt="Phone">
   </a>
   <a href="https://github.com/raunak-choudhary">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -539,17 +542,11 @@ A full-stack web-based agricultural e-marketplace platform connecting farmers, c
 </div>
 
 <div align="center">
-  <p><strong>💡 I'm always open to collaborating on interesting projects, research opportunities, or just discussing ideas in ML, cloud computing, and software development.</strong></p>
+  <p>I'm always open to collaborating on interesting projects, research opportunities, or just discussing ideas in ML, cloud computing, and software development.</p>
 </div>
 
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=raunak-choudhary&color=blueviolet&style=flat-square&label=Profile+Views">
-</div>
-
+</div
 ---
-
-<div align="center">
-  <h3>⭐ If you find my work interesting, please consider giving my repositories a star! ⭐</h3>
-</div>
