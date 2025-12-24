@@ -34,7 +34,7 @@ const raunak = {
   <table>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/NYU-5B2C6F?style=for-the-badge" alt="NYU"></td>
-      <td><b>Master's in Computer Science</b><br>New York University - Tandon School of Engineering<br>GPA: 3.889/4.0 • Expected Graduation: May 2026<br><i>Relevant Coursework: Design and Analysis of Algorithms, Software Engineering, Machine Learning, Deep Learning</i></td>
+      <td><b>Master's in Computer Science</b><br>New York University - Tandon School of Engineering<br>GPA: 3.926/4.0 • Expected Graduation: May 2026<br><i>Relevant Coursework: Design and Analysis of Algorithms, Software Engineering, Machine Learning, Deep Learning</i></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/VTU-E74C3C?style=for-the-badge" alt="VTU"></td>
