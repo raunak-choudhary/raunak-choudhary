@@ -2,7 +2,6 @@
 
 # Hi, I'm Raunak Choudhary
 
-<!-- Headline titles = mainstream/high-volume only. For TikTok applications, you can add ";Data+Engineer" to the lines list below. -->
 <a href="https://github.com/raunak-choudhary">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&width=540&height=50&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </a>
@@ -17,7 +16,7 @@
   <a href="https://github.com/raunak-choudhary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<!-- Contribution snake. Requires the snake.yml workflow (provided) + Actions enabled. Serves a dark variant to dark-mode viewers and a light variant to light-mode viewers. -->
+<!-- Contribution snake, refreshed daily by GitHub Actions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raunak-choudhary/raunak-choudhary/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raunak-choudhary/raunak-choudhary/output/github-contribution-grid-snake.svg" />
@@ -122,8 +121,6 @@ I build production backend systems and AI applications. My three years at TCS sp
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 *(GlideRecord, Script Includes, Business Rules)*
 
-<!-- If you actively use Jenkins, Ansible, Helm, ArgoCD, Prometheus, or Grafana, tell me and I will add them to Cloud & DevOps. I left them out because they are not in your verified skills list yet. -->
-
 ---
 
 ## Professional Experience
@@ -141,7 +138,6 @@ I build production backend systems and AI applications. My three years at TCS sp
 
 ### Lead Software Engineer &bull; Tata Consultancy Services
 `Sept 2023 - Jul 2024` &bull; Bangalore, India
-<!-- TCS designation: Systems Engineer (functional role: software engineer, promoted to team lead). Internal reference only. -->
 
 - Led an 8-engineer cloud team through end-to-end migration of 35+ enterprise applications from on-premises to AWS, covering architecture, provisioning, database migration, deployment, cutover, and production stabilization.
 - Owned cloud architecture for backbone, middleware, and data-processing workloads, designing AWS compute, networking, database, security, monitoring, and traffic-management infrastructure for production.
@@ -152,7 +148,6 @@ I build production backend systems and AI applications. My three years at TCS sp
 
 ### Software Engineer &bull; Tata Consultancy Services
 `Aug 2021 - Aug 2023` &bull; Bangalore, India
-<!-- TCS designation: Systems Engineer. Three assignments: ServiceNow, Python backend, AWS. -->
 
 **ServiceNow Platform**
 - Built 12 REST API integrations between ServiceNow and enterprise systems, processing 180K+ daily transactions with JavaScript, OAuth 2.0, JSON, and asynchronous execution.
@@ -272,10 +267,9 @@ Fine-tuned RoBERTa on AG News with LoRA, reaching 94.59% test accuracy while tra
 
 <div align="center">
 
-<!-- STATS + TOP LANGUAGES: served from your own Vercel instance to avoid the public rate limit.
-     After deploying (see the Vercel guide), replace YOUR-VERCEL-APP with your app name in the two URLs below. -->
-<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api?username=raunak-choudhary&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=raunak-choudhary&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages"/>
+<!-- Stats cards -->
+<img height="180em" src="https://my-stats-git.vercel.app/api?username=raunak-choudhary&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://my-stats-git.vercel.app/api/top-langs/?username=raunak-choudhary&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=raunak-choudhary&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
