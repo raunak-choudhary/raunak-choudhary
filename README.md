@@ -1,552 +1,282 @@
-# <div align="center">👋 Hi, I'm Raunak Choudhary!</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Data+Science+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raunak-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:raunakchoudhary17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/raunak-choudhary"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.raunakchoudhary.com"><img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="tel:+19292894648"><img src="https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white" alt="Phone"></a>
+# Hi, I'm Raunak Choudhary
+
+<a href="https://github.com/raunak-choudhary/raunak-choudhary">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&width=520&height=50&lines=Software+Engineer;AI+%26+LLM+Engineer;Backend+%26+Distributed+Systems;Agent+%26+RAG+Systems+Builder" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/raunak-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:raunakchoudhary17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:raunak.choudhary@nyu.edu"><img src="https://img.shields.io/badge/NYU_Email-57068C?style=for-the-badge&logo=gmail&logoColor=white" alt="NYU Email"/></a>
+  <a href="https://www.raunakchoudhary.com"><img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/raunak-choudhary"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-## 🚀 About Me
+</div>
+
+---
+
+## About Me
 
 ```javascript
 const raunak = {
-  location: "New York, USA",
+  location: "New York, NY, USA",
+  role: "Software Engineer & AI Engineer",
   education: {
-    masters: "MS in Computer Science - NYU Tandon (GPA: 3.926/4.0)",
-    bachelors: "B.E. in Computer Science - VTU (GPA: 8.47/10.0)"
+    masters: "M.S. Computer Science, NYU Tandon (GPA 3.9/4.0, May 2026)",
+    bachelors: "B.E. Computer Science, VTU (GPA 8.47/10.0, Aug 2021)"
   },
-  workExperience: ["AWS Developer at TCS (3 years)", "Data Science & ML Intern"],
+  experience: "3 years at TCS: Software Engineer -> Lead Software Engineer",
   certifications: ["AWS Certified Cloud Practitioner", "AWS Certified Data Analytics - Specialty"],
-  interests: ["Cloud Computing", "Machine Learning", "Deep Learning", "Computer Vision", "NLP", "Data Science", "Front-End-Development"],
-  currentFocus: "Developing robust ML models and cloud-native applications"
+  focus: ["LLM & Agent Systems", "Backend & Distributed Systems", "Cloud-Native Engineering"],
+  interests: ["Multi-Agent AI", "RAG", "Distributed Systems", "Full-Stack", "Cloud"],
+  openTo: "Software Engineer / AI Engineer roles in the US (work-authorized on OPT)"
 };
 ```
 
-## 🎓 Education
+I build production backend systems and AI applications. My three years at TCS spanned ServiceNow integrations, Python microservices at high throughput, and AWS migrations, first as a Software Engineer and then leading an 8-engineer migration team. My recent work focuses on LLM agents, retrieval systems, and distributed pipelines.
+
+---
+
+## Education
+
+| | |
+|---|---|
+| <img src="https://img.shields.io/badge/NYU-57068C?style=for-the-badge" alt="NYU"/> | **M.S. in Computer Science**<br/>New York University, Tandon School of Engineering<br/>GPA: 3.9/4.0 &bull; Graduated May 2026<br/>*Coursework: Design and Analysis of Algorithms, Machine Learning, Deep Learning, Applied AI, Software Engineering, Information Security and Privacy* |
+| <img src="https://img.shields.io/badge/VTU-E74C3C?style=for-the-badge" alt="VTU"/> | **B.E. in Computer Science and Engineering**<br/>Visvesvaraya Technological University (SMVITM)<br/>GPA: 8.47/10.0 &bull; Aug 2017 - Aug 2021<br/>*Coursework: Data Structures, Advanced Java and J2EE, Web Technologies, Operating Systems* |
+
+---
+
+## Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**AI, ML & NLP**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**LLM & Agents**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases & Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Platforms**
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+*(GlideRecord, Script Includes, Business Rules)*
+
+---
+
+## Professional Experience
+
+### Teaching Assistant &bull; New York University (Tandon & Stern)
+`Sept 2025 - May 2026` &bull; New York, NY
+
+- Mentored 500+ graduate students across 3 courses and 5 sections in Machine Learning, Applied AI, and Information Security and Privacy.
+- Ran hands-on labs in PyTorch and Hugging Face, held office hours, and graded exams and assignments.
+
+### Lead Software Engineer &bull; Tata Consultancy Services
+`Sept 2023 - Jul 2024` &bull; Bangalore, India
+<!-- TCS designation: Systems Engineer (functional role: software engineer, promoted to team lead). Keep this line for internal reference only. -->
+
+- Led an 8-engineer cloud team through end-to-end migration of 35+ enterprise applications from on-premises to AWS, covering architecture, provisioning, database migration, deployment, cutover, and production stabilization.
+- Owned cloud architecture for backbone, middleware, and data-processing workloads, designing AWS compute, networking, database, security, monitoring, and traffic-management infrastructure for production.
+- Directed homogeneous and heterogeneous database migrations across the 35+ applications, including SQL-to-SQL and Oracle-to-PostgreSQL, coordinating replication, validation, cutover, rollback planning, and stabilization.
+- Standardized infrastructure delivery with Terraform, CloudFormation, Git, and CI/CD, enabling repeatable provisioning and controlled releases while cutting configuration drift and manual changes.
+- Designed and reviewed AWS architectures spanning VPC networking, IAM, security groups, load balancing, Auto Scaling, RDS, monitoring, backups, and disaster recovery, guiding engineers to production readiness.
+- Coordinated migration planning and production cutovers across application, database, cloud, and operations teams, owning dependencies, risk mitigation, troubleshooting, and post-launch support.
+
+### Software Engineer &bull; Tata Consultancy Services
+`Aug 2021 - Aug 2023` &bull; Bangalore, India
+<!-- TCS designation: Systems Engineer (functional role: software engineer). Three project assignments: ServiceNow, Python backend, AWS. -->
+
+**ServiceNow Platform**
+- Built 12 REST API integrations between ServiceNow and enterprise systems, processing 180K+ daily transactions with JavaScript, OAuth 2.0, JSON, and asynchronous execution.
+- Engineered server-side logic with JavaScript, GlideRecord, Script Includes, and Business Rules to process 2.4M+ monthly records across enterprise IT workflows.
+- Optimized queries and asynchronous processing across 8 high-volume workflows, cutting execution latency from 4.6s to 1.3s for requests serving 25K+ users.
+
+**Python Backend**
+- Developed 8 Python microservices and 30+ REST APIs on FastAPI and PostgreSQL, supporting 250K+ daily requests across customer-facing and internal workflows.
+- Designed asynchronous pipelines with Python, Kafka, and Redis to process 2.8M+ events per day across 10 consumer workflows, implementing retries, idempotency, and dead-letter handling.
+
+**AWS Cloud**
+- Provisioned AWS infrastructure for enterprise migrations with Terraform and CloudFormation, standing up compute, networking, databases, load balancing, monitoring, and security.
+- Executed homogeneous and heterogeneous database migrations from on-premises SQL and Oracle to Amazon RDS (SQL Server and PostgreSQL), handling replication, validation, cutover, and stabilization.
+- Migrated and stabilized business-critical multi-tier applications to AWS, owning provisioning, server configuration, installation, connectivity validation, monitoring, and go-live support.
+- Designed cloud infrastructure with EC2, RDS, VPC, IAM, ALB, Auto Scaling, S3, CloudWatch, DMS, and Route 53 for availability, traffic distribution, security, and monitoring.
+- Automated repeatable deployments through Infrastructure as Code and reusable Terraform and CloudFormation modules, reducing manual configuration across migration environments.
+
+---
+
+## Internships
+
+<!-- NOTE (for Raunak, not shown when rendered):
+     1. I removed the earlier percentage claims (88% accuracy, 95%, 93%, etc.) because they are not defensible if a recruiter asks how they were measured. I kept only real, verifiable facts (projects built, exams passed, technologies, dataset scope). If you have a genuine, documentable metric for any of these, send it and I will add it back.
+     2. Great Learning, HPE, and Inmovidu all show Jul-Aug 2020. Three concurrent internships in the same window reads as padding to US recruiters. HPE and Inmovidu were virtual, which explains some overlap, but please confirm the exact real dates so we can space or label them correctly. -->
+
+**Data Science Intern &bull; Great Learning** `Jun 2020 - Aug 2020`
+- Worked on data science and applied statistics projects using Amazon e-commerce, insurance, and LaLiga datasets, running EDA and visualization with Python, NumPy, and Pandas across 1M+ records.
+
+**Web Development Intern &bull; Inmovidu Technologies** `Jul 2020 - Aug 2020` *(virtual)*
+- Built 3 responsive web projects with HTML, CSS, JavaScript, and backend integration, implementing REST APIs with database connectivity. Cleared MTA: HTML5 Application Development Fundamentals (98-375).
+
+**CCNA Networking Intern &bull; Hewlett Packard Enterprise** `Jul 2020 - Aug 2020` *(virtual)*
+- Designed and simulated 15+ network topologies in Cisco Packet Tracer and studied OSPF, EIGRP, VLANs, and ACLs. Cleared MTA: Networking Fundamentals (98-366).
+
+**Android App Development Intern &bull; Azure Skynet Solutions** `Mar 2020`
+- Built 5 Android applications in Java and Android Studio using Activities, Fragments, Services, and Broadcast Receivers, with GPS, camera, and local-storage features.
+
+**Machine Learning Intern &bull; Verzeo Edutech** `Jul 2019 - Aug 2019`
+- Built an Autism Spectrum Disorder prediction model with K-Nearest Neighbors and Random Forest and explored NLP for text inputs, delivering projects with a 5-intern team. Cleared MTA: Python Programming (98-381).
+
+---
+
+## Achievements & Awards
+
+- **1st Place, Code4City Hackathon (NYU Tandon), Apr 2026** &mdash; Built CascadeOS solo under team "Core Catalyst", winning against 42 teams.
+- **Star of the Quarter, TCS (Q3 2023)** &mdash; Recognized for contributions to a critical enterprise project.
+- **1st Place, I2CONECCT-2021 Project Competition** &mdash; TapShip, an agricultural e-marketplace platform.
+- **2nd Place, IIoT Exhibition 2019** &mdash; Smart Energy Meter, an IoT energy-monitoring system.
+
+---
+
+## Certifications
+
+**AWS**
+- AWS Certified Cloud Practitioner
+- AWS Certified Data Analytics - Specialty
+
+**Microsoft Technology Associate (Foundational)**
+- MTA: HTML5 Application Development Fundamentals (98-375)
+- MTA: Networking Fundamentals (98-366)
+- MTA: Python Programming (98-381)
+
+---
+
+<!-- ============================================================
+     FEATURED PROJECTS - ON HOLD (PHASE 2). Written but commented
+     out per Raunak's instruction. Finalize project list + metrics
+     before enabling. Verify the CascadeOS 40-node figure and any
+     numbers flagged in the master profile before publishing.
+     ============================================================
+
+## Featured Projects
+
+### CascadeOS (Multi-Agent Infrastructure Failure Predictor)
+[![Repo](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/raunak-choudhary/cascadeos)
+Multi-agent urban infrastructure intelligence system for NYC that predicts cascading
+infrastructure failures on a live graph. 1st place, Code4City Hackathon (solo, 42 teams).
+**Tech:** FastAPI, React (Vite), WebSockets, NetworkX, LangGraph, YOLOv8, deck.gl, Mapbox
+
+### Knaq (IoT Real-Time Anomaly Detection Platform)
+[![Repo](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/raunak-choudhary/knaq-iot-triage)
+Production-grade, multi-tenant IoT alert-triage platform with ingestion, validation,
+statistical anomaly detection, a full triage workflow with audit trail, and an analytics dashboard.
+**Tech:** FastAPI, SQLAlchemy, Alembic, Pydantic, Next.js, TypeScript, MUI, Redux Toolkit, ECharts, Docker
+
+### Social Pulse (Real-Time Distributed NLP Pipeline)
+[![Repo](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/raunak-choudhary/SocialPulse)
+Real-time distributed NLP pipeline: Bluesky Jetstream firehose to Kafka to MongoDB, with
+nine enrichment stages covering language detection, sentiment, NER, topic modeling, anomaly
+detection, zero-shot rumor detection, toxicity, and summarization.
+**Tech:** Kafka, MongoDB, spaCy, scikit-learn, Hugging Face, Docker Compose, Metabase
+
+### Redline Reveal (Voice-Powered Civic Data Tool)
+[![Repo](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/raunak-choudhary/redline-reveal-gdg-hackathon-2026)
+Voice-powered civic tool on federal CFPB HMDA mortgage data with a choropleth across 262 NYC ZIP codes.
+Built at GDG NYC Hackathon 2026.
+**Tech:** Google ADK (A2A agents), Gemini, FastMCP, Cloud Run, BigQuery, Web Speech API, Google Maps JS
+
+============================================================ -->
+
+## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/NYU-5B2C6F?style=for-the-badge" alt="NYU"></td>
-      <td><b>Master's in Computer Science</b><br>New York University - Tandon School of Engineering<br>GPA: 3.926/4.0 • Expected Graduation: May 2026<br><i>Relevant Coursework: Design and Analysis of Algorithms, Software Engineering, Machine Learning, Deep Learning</i></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/VTU-E74C3C?style=for-the-badge" alt="VTU"></td>
-      <td><b>B.E. in Computer Science and Engineering</b><br>Visvesvaraya Technological University - Shri Madhwa Vadiraja Institute of Technology and Management<br>GPA: 8.47/10.0 • August 2017 - August 2021<br><i>Relevant Coursework: Data Structures, Advanced JAVA and J2EE, Web Technology and its Applications, Operating Systems</i></td>
-    </tr>
-  </table>
-</div>
 
-## 🔄 Current Focus
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raunak-choudhary&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-choudhary&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages"/>
 
-I'm currently focusing on enhancing my skills in:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-choudhary&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-- 🎓 **Master's in Computer Science**: Completing my MS in Computer Science at NYU with a high GPA score and comprehensive knowledge collection across various domains
-- 🧠 **Adversarial Machine Learning**: Developing robust models that can withstand various attack vectors
-- ☁️ **Multi-Cloud Expertise & DevOps**: Exploring and earning more certifications in Azure and GCP along with AWS, building cloud-native projects integrated with DevOps practices
-- 🤖 **AI Applications Development**: Building diverse AI applications and exploring the AI field in depth to create innovative solutions across various domains
-- 🔍 **Parameter-Efficient Fine-Tuning**: Exploring techniques like LoRA for efficient adaptation of large language models
-- 🌐 **Full-Stack Development**: Building end-to-end applications with trending technologies including React.js, Next.js, TypeScript frontend and Node.js, Express.js, FastAPI backend with modern databases like MongoDB, PostgreSQL
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-choudhary&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 
-## 💼 Work Experience
-
-<details open>
-  <summary><b>AWS Developer - Tata Consultancy Services (TCS) Ltd.</b> [August 2021 - July 2024]</summary>
-  <ul>
-    <li>Led an 8-member Infrastructure team, achieving 100% on-time project delivery and reducing downtime by 20%</li>
-    <li>Enhanced deployment efficiency by 25% through expertise in AWS Cloud Development and Infrastructure as Code</li>
-    <li>Reduced system and network issues by 50% by supporting application and database teams with AWS infrastructure integration</li>
-    <li>Executed impactful solutions for global clients in the UK, US, and Brazil, improving client satisfaction by 15%</li>
-    <li>Played a key role in the migration of 15+ applications, reducing time by 40% with no data loss</li>
-    <li>Collaborated with lead AWS architect to design architecture diagrams for 10+ applications, improving system scalability by 30%</li>
-    <li>Obtained AWS Certifications, boosting technical proficiency and accelerating project delivery timelines by 15% across teams</li>
-    <li>Trained 15+ team members, reducing onboarding time by 50% and ensuring consistent client support</li>
-    <li>Rated in the top 10% of professionals at my level, reflecting consistent high performance and reliability</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Data Science Intern - Great Learning Pvt. Ltd.</b> [June 2020 - August 2020]</summary>
-  <ul>
-    <li>Worked on Data Science, Statistical Learning, and Applied Statistics projects with Amazon E-commerce, Insurance, and LaLiga datasets</li>
-    <li>Analyzed over 1 million data points to uncover actionable insights using advanced statistical techniques</li>
-    <li>Leveraged Python libraries like NumPy and Pandas for Data Visualization and EDA, resulting in 20% reduction in analysis time</li>
-    <li>Improved data accuracy by 30% through rigorous preprocessing and feature engineering</li>
-    <li>Employed advanced visualization techniques (Violin Plots, Network Graphs, Heatmaps), enhancing insights by 35%</li>
-    <li>Presented analytical findings to stakeholders, resulting in implementation of data-driven recommendations</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>CCNA Networking Intern - Hewlett Packard Enterprise</b> [July 2020 - August 2020]</summary>
-  <ul>
-    <li>Completed comprehensive virtual internship focusing on CISCO networking fundamentals and network infrastructure design</li>
-    <li>Mastered CISCO Packet Tracer software, designing and simulating 15+ complex network topologies with 95% accuracy</li>
-    <li>Gained expertise in routing protocols (OSPF, EIGRP), switching concepts, and VLAN configuration achieving 93% proficiency</li>
-    <li>Implemented network security measures including ACLs, firewall configurations, and network troubleshooting with 90% success rate</li>
-    <li>Studied TCP/IP protocol suite, subnetting, and network address translation, demonstrating 96% conceptual understanding</li>
-    <li>Successfully cleared MTA: Networking Fundamentals (98-366) examination, validating networking knowledge and skills</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Web Development Intern - Inmovidu Technologies</b> [July 2020 - August 2020]</summary>
-  <ul>
-    <li>Developed full-stack web applications using HTML5, CSS3, JavaScript, and backend technologies</li>
-    <li>Built 3 responsive web projects with modern UI/UX design principles, achieving 95% client satisfaction</li>
-    <li>Implemented RESTful APIs and database integration, improving data retrieval efficiency by 40%</li>
-    <li>Mastered frontend frameworks and backend development, delivering projects with 98% code quality standards</li>
-    <li>Enhanced web performance optimization techniques, reducing page load times by 35% across all projects</li>
-    <li>Successfully cleared MTA: HTML5 Application Development Fundamentals examination, demonstrating technical proficiency</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Android App Development Intern - Azure Skynet Solutions Pvt. Ltd.</b> [March 2020]</summary>
-  <ul>
-    <li>Developed 5 fully functional Android applications using Java and Android Studio with diverse feature implementations</li>
-    <li>Mastered Android lifecycle management, UI/UX design patterns, and database integration achieving 92% app performance</li>
-    <li>Implemented key Android components including Activities, Fragments, Services, and Broadcast Receivers with 96% accuracy</li>
-    <li>Built applications featuring GPS integration, camera functionality, and local storage, demonstrating 90% technical proficiency</li>
-    <li>Gained expertise in Material Design principles and responsive layouts, delivering apps with 94% user experience ratings</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Machine Learning Intern - Verzeo Edutech Ltd.</b> [July 2019 - August 2019]</summary>
-  <ul>
-    <li>Gained proficiency in Python for Machine Learning, mastering foundational concepts and algorithms</li>
-    <li>Applied ML algorithms in over 3 practical projects, demonstrating versatility across different problem domains</li>
-    <li>Developed an ML application focused on Autism Spectrum Disorder (ASD) prediction, achieving 88% accuracy</li>
-    <li>Implemented K-Nearest Neighbors and Random Forest algorithms to create robust prediction models</li>
-    <li>Explored Natural Language Processing techniques, improving prediction accuracy by 10% for text-based inputs</li>
-    <li>Collaborated with a team of 5 interns to deliver end-to-end machine learning solutions</li>
-  </ul>
-</details>
-
-## 🛠️ Skills & Competencies
-
-<div align="center">
-  <h3>Programming Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  
-  <h3>Machine Learning & Data Science</h3>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
-  <h3>Web Development</h3>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  
-  <h3>AWS & Cloud</h3>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white">
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white">
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white">
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white">
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  
-  <h3>DevOps & Tools</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-</div>
-
-## 🚀 Featured Projects
-
-### CareVault Healthcare App
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/CareVault_Frontend_Repo" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend_Repo-View%20Code-blue?style=for-the-badge&logo=github" alt="Frontend Repository">
-  </a>
-  <a href="https://github.com/raunak-choudhary/CareVault_Backend_Repo" target="_blank">
-    <img src="https://img.shields.io/badge/Backend_Repo-View%20Code-green?style=for-the-badge&logo=github" alt="Backend Repository">
-  </a>
-</div>
-
-An AI-powered healthcare management platform designed to centralize and simplify access to personal medical data. The application enables users to upload, organize, and query medical documents through an intuitive interface, while receiving intelligent support from a Retrieval-Augmented Generation (RAG) system for document understanding and assistance. Features include document storage, appointment tracking, and AI-powered health query responses.
-
-**Tech Stack:** React.js, Python, Supabase, PostgreSQL, RAG System, File Storage Buckets
-
-### Adversarial Attacks on ResNet and DenseNet
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/DeepModel-AdversarialAttacks-ResNet-DenseNet" target="_blank">
-    <img src="https://img.shields.io/badge/Adversarial_Attacks-View%20Code-purple?style=for-the-badge&logo=github" alt="Adversarial Attacks Repository">
-  </a>
-</div>
-
-A comprehensive research project evaluating and enhancing adversarial attacks on deep neural network image classifiers. Implements multiple attack strategies including FGSM, PGD, MI-FGSM, and Patch attacks against pre-trained ResNet-34 and DenseNet-121 models on ImageNet subset. Achieved significant performance degradation (ResNet-34 accuracy dropped from 77.40% to 0.00% with PGD) and analyzed attack transferability across different architectures.
-
-**Tech Stack:** PyTorch, TorchVision, NumPy, Matplotlib, Pillow, Jupyter Notebook, ImageNet Dataset
-
-### RoBERTa-LoRA News Classification
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/RoBERTa-LoRA-News-Classification" target="_blank">
-    <img src="https://img.shields.io/badge/RoBERTa_LoRA-View%20Code-yellow?style=for-the-badge&logo=github" alt="NLP Repository">
-  </a>
-</div>
-
-An advanced NLP project implementing Parameter-Efficient Fine-Tuning (PEFT) with Low-Rank Adaptation (LoRA) to optimize RoBERTa for AG News classification. Achieved 94.59% test accuracy using only 925,444 trainable parameters (0.737% of total model parameters), demonstrating efficient adaptation of large language models for text classification across four news categories: World, Sports, Business, and Sci/Tech.
-
-**Tech Stack:** Hugging Face Transformers, PyTorch, PEFT, LoRA, AG News Dataset, Python
-
-### Shark Tank US Investment Prediction
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/Shark-Tank-US-Investment-Prediction-ML" target="_blank">
-    <img src="https://img.shields.io/badge/Shark_Tank_ML-View%20Code-red?style=for-the-badge&logo=github" alt="Shark Tank Repository">
-  </a>
-</div>
-
-A comprehensive machine learning project analyzing 1,365 startup pitches from all 16 seasons of Shark Tank US to predict investment likelihood and amounts. Utilizes advanced techniques including text embeddings via OpenAI models, SMOTE for class imbalance, and ensemble methods. Features shark-specific prediction models, industry preference analysis, and achieves superior performance with XGBoost for both classification and regression tasks.
-
-**Tech Stack:** Python, XGBoost, Random Forest, SVM, OpenAI Embeddings, SMOTE, PCA, t-SNE, Pandas, scikit-learn
-
-### SynergyPro - Productivity Platform
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/SynergyPro_NYU_SE_Project" target="_blank">
-    <img src="https://img.shields.io/badge/SynergyPro-View%20Code-teal?style=for-the-badge&logo=github" alt="SynergyPro Repository">
-  </a>
-</div>
-
-A hybrid productivity platform designed for task management and personalized study scheduling for professionals and students. Features include individual and team dashboards, calendar integration, real-time collaboration, file upload with version control, analytics with visual insights, and a help center with task management guides. Supports both individual workflow optimization and team project coordination.
-
-**Tech Stack:** React.js, JavaScript, HTML, CSS, SQL, Bootstrap, Django, Python
-
-### TapShip - Agricultural E-Marketplace
-<div align="center">
-  <a href="https://github.com/raunak-choudhary/Tapship_Undergrad_Final_Project" target="_blank">
-    <img src="https://img.shields.io/badge/TapShip-View%20Code-orange?style=for-the-badge&logo=github" alt="TapShip Repository">
-  </a>
-</div>
-
-A full-stack web-based agricultural e-marketplace platform connecting farmers, customers, and transport drivers to eliminate middlemen and ensure fair crop pricing. Features include crop listing and bidding system, real-time price analytics, weather forecasts, OTP verification, SQL injection protection, and location-based recommendations using machine learning. Won first place at the I2CONECCT-2021 Project Competition.
-
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, Python, MySQL, XAMPP, Bing Maps API, OpenWeatherMap API, Twilio OTP
-
-## 🏆 Achievements & Awards
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🏆-1st_Place-gold?style=for-the-badge"><br>
-        <b>'I2CONECCT-2021' Project Competition</b><br>
-        <i>Project: "TapShip - Tap to Ship"</i><br>
-        <p>An innovative shipping solution that won first place at the I2CONECCT-2021 Project Competition and Exhibition. The application streamlined shipping processes with a user-friendly mobile interface and real-time tracking capabilities.</p>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🥈-2nd_Place-silver?style=for-the-badge"><br>
-        <b>IIoT (Industrial Internet of Things) - 2019</b><br>
-        <i>Project: "Smart Energy Meter"</i><br>
-        <p>Developed an IoT-enabled smart energy monitoring system that provides real-time electricity consumption data and analytics, helping users optimize their energy usage and reduce costs.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⭐-Star_of_Quarter-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"><br>
-        <b>TCS Star of the Quarter (July-September 2023)</b><br>
-        <p>Recognized for exceptional contributions to a critical project, meeting stringent licensing requirements, and delivering a 30% improvement in project compliance and efficiency.</p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%93%8A-Top_10%25_Performer-blue?style=for-the-badge"><br>
-        <b>TCS Performance Recognition</b><br>
-        <p>Rated in the top 10% of professionals at my level by the manager and supervisor, reflecting consistent high performance and reliability in AWS infrastructure development and management.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📜 Certifications & Badges
-
-<h3 align="center">AWS Certifications</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./assets/badges/aws-certified-cloud-practitioner-badge.png" width="180"><br>
-        <b>AWS Certified Cloud Practitioner</b>
-      </td>
-      <td align="center">
-        <img src="./assets/badges/aws-data-analytics-badge.png" width="180"><br>
-        <b>AWS Certified Data Analytics Specialty</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="./assets/certifications/aws-cloud-practitioner-certification.png">
-          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/certifications/aws-data-analytics-certification.png">
-          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">Microsoft Technology Associate (MTA) Certifications</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./assets/badges/mta-html-certified-badge.png" width="150"><br>
-        <b>MTA: HTML5 Application Development Fundamentals</b>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft-MTA%20Networking-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
-        <b>MTA: Networking Fundamentals (98-366)</b>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft-MTA%20Python-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
-        <b>MTA: Python Programming (98-381)</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="./assets/certifications/MTA_98-375.jpg">
-          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/certifications/MTA_98-366.jpg">
-          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="./assets/certifications/MTA_98-381.jpg">
-          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">NYU Tandon LeetCode Bootcamp</h3>
-<div align="center">
-  <img src="./assets/badges/nyu-tandon-leetcode-bootcamp-badge.png" width="180"><br>
-  <b>Competitive Programming & DSA Excellence</b>
-</div>
-
-<h3 align="center">Professional Recognition</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="./assets/certifications/tcs-star-award.png" width="250"><br>
-        <b>TCS Star of the Quarter (Q3 2023)</b><br>
-        <i>For exceptional contributions to a critical project, meeting stringent licensing requirements, and delivering a 30% improvement in project compliance and efficiency.</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎓 Professional Internships
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="./assets/internships/Verzeo_ML_internship.jpg" width="220"><br>
-        <b>Machine Learning Internship</b><br>
-        <i>Verzeo Edutech Ltd.</i>
-      </td>
-      <td align="center" width="33%">
-        <img src="./assets/internships/great-learning-internship.png" width="220"><br>
-        <b>Data Science Internship</b><br>
-        <i>Great Learning Pvt. Ltd.</i>
-      </td>
-      <td align="center" width="33%">
-        <img src="./assets/internships/HPE_Internship_Certificate_CCNA.png" width="220"><br>
-        <b>CCNA Networking Internship</b><br>
-        <i>Hewlett Packard Enterprise</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="./assets/internships/Azure_Skynet_Internship.jpg" width="220"><br>
-        <b>Android App Development Internship</b><br>
-        <i>Azure Skynet Solutions Pvt. Ltd.</i>
-      </td>
-      <td align="center" colspan="2">
-        <img src="./assets/internships/web-development-inmovidu-internship1.png" width="220">
-        <img src="./assets/internships/web-development-inmovidu-internship2.png" width="220"><br>
-        <b>Web Development Internship</b><br>
-        <i>Inmovidu Technologies</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 GitHub Statistics & Activity
-
-<div align="center">
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raunak-choudhary&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_border=true" alt="Raunak's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raunak-choudhary&layout=compact&theme=radical&hide=jupyter%20notebook&langs_count=8&hide_border=true" alt="Most Used Languages" height="170" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunak-choudhary&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</div>
-
-<!-- Contribution Calendar with Time Range Options -->
-<div align="center">
-  <h4>View My Contributions</h4>
-  <a href="https://github.com/raunak-choudhary?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunak-choudhary&theme=redical&hide_border=true" alt="Raunak's GitHub Activity Graph" />
-  </a>
-  
-  <p>View contributions by time period:</p>
-  <a href="https://github.com/raunak-choudhary?tab=overview&from=2025-01-01&to=2025-12-31">
-    <img src="https://img.shields.io/badge/2025-View%20Contributions-blueviolet?style=for-the-badge" alt="2025 Contributions" />
-  </a>
-  <a href="https://github.com/raunak-choudhary?tab=overview&from=2024-01-01&to=2024-12-31">
-    <img src="https://img.shields.io/badge/2024-View%20Contributions-ff69b4?style=for-the-badge" alt="2024 Contributions" />
-  </a>
-  <a href="https://github.com/raunak-choudhary?tab=overview&from=2023-01-01&to=2023-12-31">
-    <img src="https://img.shields.io/badge/2023-View%20Contributions-9cf?style=for-the-badge" alt="2023 Contributions" />
-  </a>
-  <a href="https://github.com/raunak-choudhary?tab=overview&from=2022-01-01&to=2022-12-31">
-    <img src="https://img.shields.io/badge/2022-View%20Contributions-red?style=for-the-badge" alt="2022 Contributions" />
-  </a>
-</div>
-
-<!-- Random Dev Quote -->
-<div align="center">
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  </a>
-</div>
-
-## 🎯 Professional Goals
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🎓-Academic_Goals-5B2C6F?style=for-the-badge">
-        <ul align="left">
-          <li>Complete MS in Computer Science at NYU with distinction</li>
-          <li>Publish research papers in adversarial machine learning</li>
-          <li>Participate in academic conferences in AI/ML</li>
-          <li>Collaborate with professors on cutting-edge research</li>
-        </ul>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/💻-Technical_Goals-E74C3C?style=for-the-badge">
-        <ul align="left">
-          <li>Develop expertise in robust ML model development</li>
-          <li>Master parameter-efficient fine-tuning methods for LLMs</li>
-          <li>Create cloud-native ML deployment frameworks</li>
-          <li>Build healthcare AI applications with practical impact</li>
-        </ul>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌐-Community_Goals-2ECC71?style=for-the-badge">
-        <ul align="left">
-          <li>Contribute to open-source ML and cloud projects</li>
-          <li>Mentor junior developers and data scientists</li>
-          <li>Participate in hackathons and coding competitions</li>
-          <li>Share knowledge through blog posts and tutorials</li>
-        </ul>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🚀-Career_Goals-3498DB?style=for-the-badge">
-        <ul align="left">
-          <li>Secure a position as ML Engineer or AWS Cloud Developer</li>
-          <li>Earn additional AWS certifications (Solutions Architect)</li>
-          <li>Build a portfolio of impactful ML projects</li>
-          <li>Work on projects with measurable real-world impact</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/raunak-choudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:raunak.choudhary@nyu.edu">
-    <img src="https://img.shields.io/badge/NYU_Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="NYU Email">
-  </a>
-  <a href="mailto:raunakchoudhary17@gmail.com">
-    <img src="https://img.shields.io/badge/Personal_Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Personal Email">
-  </a>
-  <a href="tel:+19292894648">
-    <img src="https://img.shields.io/badge/Phone-+1_(929)_289_4648-4285F4?style=for-the-badge&logo=google-voice" alt="Phone">
-  </a>
-  <a href="https://github.com/raunak-choudhary">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</div>
-
-<div align="center">
-  <p>I'm always open to collaborating on interesting projects, research opportunities, or just discussing ideas in ML, cloud computing, and software development.</p>
 </div>
 
 ---
+
+## Currently
+
+I am open to Software Engineer and AI Engineer roles in the US, work-authorized on OPT. I am most interested in backend, distributed systems, and LLM or agent-based product work. Happy to talk about interesting problems in any of those areas.
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=raunak-choudhary&color=blueviolet&style=flat-square&label=Profile+Views">
-</div
----
+
+<a href="https://www.linkedin.com/in/raunak-choudhary"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:raunakchoudhary17@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Personal Email"/></a>
+<a href="mailto:raunak.choudhary@nyu.edu"><img src="https://img.shields.io/badge/NYU_Email-Contact-57068C?style=for-the-badge&logo=gmail" alt="NYU Email"/></a>
+<a href="https://www.raunakchoudhary.com"><img src="https://img.shields.io/badge/Portfolio-Visit-FF9900?style=for-the-badge&logo=googlechrome" alt="Portfolio"/></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=raunak-choudhary&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+</div>
