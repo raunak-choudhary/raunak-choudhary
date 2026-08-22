@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&width=540&height=50&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </a>
 
-### Open to Software Engineer, AI/ML, Full Stack, and Cloud & DevOps roles in the US
+### Open to Software Engineer, AI/ML, Full Stack, and Cloud & DevOps roles
 
 <p>
   <a href="https://www.linkedin.com/in/raunak-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -32,7 +32,6 @@
 ```javascript
 const raunak = {
   location: "New York, NY, USA",
-  role: "Software Engineer & AI/ML Engineer",
   education: {
     masters: "M.S. Computer Science, NYU Tandon (GPA 3.9/4.0, May 2026)",
     bachelors: "B.E. Computer Science, VTU (GPA 8.47/10.0, Aug 2021)"
@@ -40,11 +39,12 @@ const raunak = {
   experience: "3 years at TCS: Software Engineer -> Lead Software Engineer",
   certifications: ["AWS Certified Cloud Practitioner", "AWS Certified Data Analytics - Specialty"],
   domains: ["Software Engineering", "AI / ML", "Full Stack", "Cloud & DevOps"],
-  openTo: "SWE / AI-ML / Full Stack / Cloud roles in the US (work-authorized on OPT)"
+  usWorkAuthorization: "Currently on F-1 OPT, authorized to work in the US",
+  openTo: "Software Engineer, AI/ML, Full Stack, and Cloud & DevOps roles"
 };
 ```
 
-I build production backend systems and AI applications. My three years at TCS spanned ServiceNow integrations, high-throughput Python microservices, and AWS migrations, first as a Software Engineer and then leading an 8-engineer migration team. My recent work covers LLM and agent systems, distributed pipelines, and full-stack products.
+I build production backend systems and AI applications. My 3 years at TCS spanned ServiceNow integrations, high-throughput Python microservices, and AWS migrations, first as a Software Engineer and then leading an 8-engineer migration team. My recent work covers LLM and agent systems, distributed pipelines, and full-stack products.
 
 ---
 
@@ -52,7 +52,7 @@ I build production backend systems and AI applications. My three years at TCS sp
 
 | | |
 |---|---|
-| <img src="https://img.shields.io/badge/NYU-57068C?style=for-the-badge" alt="NYU"/> | **M.S. in Computer Science**<br/>New York University, Tandon School of Engineering<br/>GPA: 3.9/4.0 &bull; Graduated May 2026<br/>*Coursework: Design and Analysis of Algorithms, Machine Learning, Deep Learning, Applied AI, Software Engineering, Information Security and Privacy* |
+| <img src="https://img.shields.io/badge/NYU-57068C?style=for-the-badge" alt="NYU"/> | **M.S. in Computer Science**<br/>New York University, Tandon School of Engineering<br/>GPA: 3.9/4.0 &bull; Sept 2024 - May 2026<br/>*Coursework: Design and Analysis of Algorithms, Machine Learning, Deep Learning, Artificial Intelligence, Software Engineering, Information Visualization* |
 | <img src="https://img.shields.io/badge/VTU-E74C3C?style=for-the-badge" alt="VTU"/> | **B.E. in Computer Science and Engineering**<br/>Visvesvaraya Technological University (SMVITM)<br/>GPA: 8.47/10.0 &bull; Aug 2017 - Aug 2021<br/>*Coursework: Data Structures, Advanced Java and J2EE, Web Technologies, Operating Systems* |
 
 ---
@@ -119,7 +119,7 @@ I build production backend systems and AI applications. My three years at TCS sp
 **Platforms**
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-*(GlideRecord, Script Includes, Business Rules)*
+`GlideRecord` `Script Includes` `Business Rules`
 
 ---
 
@@ -158,7 +158,7 @@ I build production backend systems and AI applications. My three years at TCS sp
 - Developed 8 Python microservices and 30+ REST APIs on FastAPI and PostgreSQL, supporting 250K+ daily requests across customer-facing and internal workflows.
 - Designed asynchronous pipelines with Python, Kafka, and Redis to process 2.8M+ events per day across 10 consumer workflows, implementing retries, idempotency, and dead-letter handling.
 
-**AWS Cloud**
+**AWS Migration**
 - Provisioned AWS infrastructure for enterprise migrations with Terraform and CloudFormation, standing up compute, networking, databases, load balancing, monitoring, and security.
 - Executed homogeneous and heterogeneous database migrations from on-premises SQL and Oracle to Amazon RDS (SQL Server and PostgreSQL), handling replication, validation, cutover, and stabilization.
 - Migrated and stabilized business-critical multi-tier applications to AWS, owning provisioning, server configuration, installation, connectivity validation, monitoring, and go-live support.
@@ -171,63 +171,130 @@ I build production backend systems and AI applications. My three years at TCS sp
 
 ## Featured Projects
 
-**CascadeOS** &bull; Multi-Agent Infrastructure Failure Predictor &bull; [Repo](https://github.com/raunak-choudhary/cascadeos)
-Multi-agent urban intelligence system for NYC that predicts cascading infrastructure failures on a live graph, with real-time streaming and geospatial visualization. First place at the Code4City Hackathon (NYU Tandon), built solo against 42 teams.
-`FastAPI` `React (Vite)` `WebSockets` `NetworkX` `LangGraph` `YOLOv8` `deck.gl` `Mapbox`
+**CascadeOS** - Multi-Agent Infrastructure Failure Predictor ([Repo](https://github.com/raunak-choudhary/cascadeos)) <br/>
+Multi-agent urban intelligence system for NYC that predicts cascading infrastructure failures across a 40-node NetworkX graph, with real-time streaming and geospatial visualization. First place at the Code4City Hackathon (NYU Tandon), built solo in 8 hours against 42 teams. <br/>
+Skills: `FastAPI` `React (Vite)` `WebSockets` `NetworkX` `LangGraph` `YOLOv8` `deck.gl` `Mapbox`
 
-**Knaq** &bull; Multi-Tenant IoT Alert-Triage Platform &bull; [Repo](https://github.com/raunak-choudhary/knaq-iot-triage)
-Production-grade IoT triage platform. Ingestion pipeline reads 816 sensor messages with validation, deduplication, and statistical anomaly detection, plus a full triage workflow with audit trail and an analytics dashboard.
-`SQLAlchemy` `Alembic` `Pydantic` `Next.js` `TypeScript` `MUI` `Redux Toolkit` `ECharts` `Docker`
+**Knaq** - Multi-Tenant IoT Alert-Triage Platform ([Repo](https://github.com/raunak-choudhary/knaq-iot-triage)) <br/>
+Production-grade IoT triage platform. Ingestion pipeline reads 816 sensor messages with validation, deduplication, and statistical anomaly detection, plus a full triage workflow with audit trail and an analytics dashboard. <br/>
+Skills: `SQLAlchemy` `Alembic` `Pydantic` `Next.js` `TypeScript` `MUI` `Redux Toolkit` `ECharts` `Docker`
 
-**Social Pulse** &bull; Real-Time Distributed NLP Pipeline &bull; [Repo](https://github.com/raunak-choudhary/SocialPulse)
-Streams the Bluesky Jetstream firehose through Kafka into MongoDB across nine enrichment stages: language detection, sentiment, NER, topic modeling, anomaly detection, zero-shot rumor detection, toxicity, and summarization.
-`Kafka` `MongoDB` `IsolationForest` `NMF` `Metabase` `Docker Compose`
+**Social Pulse** - Real-Time Distributed NLP Pipeline ([Repo](https://github.com/raunak-choudhary/SocialPulse)) <br/>
+Streams the Bluesky Jetstream firehose through Kafka into MongoDB across 9 enrichment stages: language detection, sentiment, NER, topic modeling, anomaly detection, zero-shot rumor detection, toxicity, and summarization. <br/>
+Skills: `Kafka` `MongoDB` `IsolationForest` `NMF` `Metabase` `Docker Compose`
 
-**Redline Reveal** &bull; Voice-Powered Civic Data Tool &bull; [Repo](https://github.com/raunak-choudhary/redline-reveal-gdg-hackathon-2026)
-Voice-driven tool over federal CFPB HMDA mortgage data, rendering a choropleth across 262 NYC ZIP codes. Built at the GDG NYC Hackathon 2026.
-`Google ADK (A2A agents)` `Gemini` `FastMCP` `Cloud Run` `BigQuery` `Web Speech API` `Google Maps JS`
+**Redline Reveal** - Voice-Powered Civic Data Tool ([Repo](https://github.com/raunak-choudhary/redline-reveal-gdg-hackathon-2026)) <br/>
+Voice-driven tool over federal CFPB HMDA mortgage data, rendering a choropleth across 262 NYC ZIP codes. Built at the GDG NYC Hackathon 2026. <br/>
+Skills: `Google ADK (A2A agents)` `Gemini` `FastMCP` `Cloud Run` `BigQuery` `Web Speech API` `Google Maps JS`
 
-**Adversarial Attacks on ResNet and DenseNet** &bull; Deep Learning Robustness &bull; [Repo](https://github.com/raunak-choudhary/DeepModel-AdversarialAttacks-ResNet-DenseNet)
-Evaluated FGSM, PGD, MI-FGSM, and patch attacks against pre-trained ResNet-34 and DenseNet-121 on an ImageNet subset, driving ResNet-34 accuracy from 77.40% to 0.00% under PGD, and analyzed cross-architecture transferability.
-`PyTorch` `TorchVision` `Matplotlib` `Pillow` `Jupyter`
+**Adversarial Attacks on ResNet and DenseNet** - Deep Learning Robustness ([Repo](https://github.com/raunak-choudhary/DeepModel-AdversarialAttacks-ResNet-DenseNet)) <br/>
+Evaluated FGSM, PGD, MI-FGSM, and patch attacks against pre-trained ResNet-34 and DenseNet-121 on an ImageNet subset, driving ResNet-34 accuracy from 77.40% to 0.00% under PGD, and analyzed cross-architecture transferability. <br/>
+Skills: `PyTorch` `TorchVision` `Matplotlib` `Pillow` `Jupyter`
 
-**RoBERTa-LoRA News Classification** &bull; Parameter-Efficient Fine-Tuning &bull; [Repo](https://github.com/raunak-choudhary/RoBERTa-LoRA-News-Classification)
-Fine-tuned RoBERTa on AG News with LoRA, reaching 94.59% test accuracy while training only 925,444 parameters, about 0.737% of the model.
-`Hugging Face Transformers` `PEFT` `LoRA` `AG News`
+**RoBERTa-LoRA News Classification** - Parameter-Efficient Fine-Tuning ([Repo](https://github.com/raunak-choudhary/RoBERTa-LoRA-News-Classification)) <br/>
+Fine-tuned RoBERTa on AG News with LoRA, reaching 94.59% test accuracy while training only 925,444 parameters, about 0.737% of the model. <br/>
+Skills: `Hugging Face Transformers` `PEFT` `LoRA` `AG News`
 
 ---
 
 ## Achievements & Awards
 
-- **1st Place, Code4City Hackathon (NYU Tandon), Apr 2026** &mdash; Built CascadeOS solo under team "Core Catalyst", winning against 42 teams.
-- **Star of the Quarter, TCS (Q3 2023)** &mdash; Recognized for contributions to a critical enterprise project.
-- **1st Place, I2CONECCT-2021 Project Competition** &mdash; TapShip, an agricultural e-marketplace platform.
-- **2nd Place, IIoT Exhibition 2019** &mdash; Smart Energy Meter, an IoT energy-monitoring system.
+- **1st Place, Code4City Hackathon (NYU Tandon), Apr 2026** - Built CascadeOS solo against 42 teams.
+- **Star of the Quarter, TCS (Q3 2023)** - Recognized for contributions to a critical enterprise project.
+- **1st Place, I2CONECCT-2021 Project Competition** - TapShip, an agricultural e-marketplace platform.
+- **2nd Place, IIoT Exhibition 2019** - Smart Energy Meter, an IoT energy-monitoring system.
 
 ---
 
 ## Certifications
 
 <div align="center">
+  <img src="./assets/degree/nyu-degree.png" width="650" alt="NYU M.S. Computer Science Degree"><br>
+  <b>Master of Science in Computer Science - New York University</b>
+</div>
 
-**AWS Certifications**
+<h3 align="center">AWS Certifications</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/badges/aws-certified-cloud-practitioner-badge.png" width="180"><br>
+        <b>AWS Certified Cloud Practitioner</b>
+      </td>
+      <td align="center">
+        <img src="./assets/badges/aws-data-analytics-badge.png" width="180"><br>
+        <b>AWS Certified Data Analytics Specialty</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="./assets/certifications/aws-cloud-practitioner-certification.png">
+          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="./assets/certifications/aws-data-analytics-certification.png">
+          <img src="https://img.shields.io/badge/View_Certificate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="assets/certifications/aws-cloud-practitioner-certification.png"><img src="assets/badges/aws-certified-cloud-practitioner-badge.png" width="120" alt="AWS Cloud Practitioner"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="assets/certifications/aws-data-analytics-certification.png"><img src="assets/badges/aws-data-analytics-badge.png" width="120" alt="AWS Data Analytics Specialty"/></a>
+<h3 align="center">Microsoft Technology Associate (MTA) Certifications</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/badges/mta-html-certified-badge.png" width="150"><br>
+        <b>MTA: HTML5 Application Development Fundamentals</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Microsoft-MTA%20Networking-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
+        <b>MTA: Networking Fundamentals (98-366)</b>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Microsoft-MTA%20Python-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="80"><br>
+        <b>MTA: Python Programming (98-381)</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="./assets/certifications/MTA_98-375.jpg">
+          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="./assets/certifications/MTA_98-366.jpg">
+          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="./assets/certifications/MTA_98-381.jpg">
+          <img src="https://img.shields.io/badge/View_Certificate-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**AWS Certified Cloud Practitioner** &nbsp;&bull;&nbsp; **AWS Certified Data Analytics - Specialty**
+<h3 align="center">NYU Tandon LeetCode Bootcamp</h3>
+<div align="center">
+  <img src="./assets/badges/nyu-tandon-leetcode-bootcamp-badge.png" width="180"><br>
+  <b>Competitive Programming & DSA Excellence</b>
+</div>
 
-<br/>
-
-**Microsoft Technology Associate (Foundational)**
-
-<a href="assets/certifications/MTA_98-375.jpg"><img src="https://img.shields.io/badge/MTA-HTML5_Apps_(98--375)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MTA HTML5"/></a>
-<a href="assets/certifications/MTA_98-366.jpg"><img src="https://img.shields.io/badge/MTA-Networking_(98--366)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MTA Networking"/></a>
-<a href="assets/certifications/MTA_98-381.jpg"><img src="https://img.shields.io/badge/MTA-Python_(98--381)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MTA Python"/></a>
-
-**NYU Tandon LeetCode Bootcamp** &mdash; Competitive Programming and DSA
-
+<h3 align="center">Professional Recognition</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/certifications/tcs-star-award.png" width="250"><br>
+        <b>TCS Star of the Quarter (Q3 2023)</b><br>
+        <i>Recognized for contributions to a critical enterprise project.</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -239,25 +306,63 @@ Fine-tuned RoBERTa on AG News with LoRA, reaching 94.59% test accuracy while tra
 
 <br/>
 
-**Data Science Intern &bull; Great Learning** &mdash; Bangalore, India &bull; `Jun 2020 - Aug 2020`
+**Data Science Intern &bull; Great Learning** - Bangalore, India &bull; `Jun 2020 - Aug 2020`
 - Worked on data science and applied statistics projects using Amazon e-commerce, insurance, and LaLiga datasets, running EDA and visualization with Python, NumPy, and Pandas across 1M+ records.
 - Applied preprocessing, feature engineering, and visualization methods including violin plots, heatmaps, and network graphs, and presented findings to project mentors.
 
-**Web Development Intern &bull; Inmovidu Technologies** &mdash; Virtual &bull; `Jul 2020 - Aug 2020`
+**Web Development Intern &bull; Inmovidu Technologies** - Virtual &bull; `Jul 2020 - Aug 2020`
 - Built 3 responsive web projects with HTML, CSS, JavaScript, and backend integration, implementing REST APIs with database connectivity.
 - Worked across frontend and backend layers with a focus on responsive UI. Cleared MTA: HTML5 Application Development Fundamentals (98-375).
 
-**CCNA Networking Intern &bull; Hewlett Packard Enterprise** &mdash; Virtual &bull; `Jul 2020 - Aug 2020`
+**CCNA Networking Intern &bull; Hewlett Packard Enterprise** - Virtual &bull; `Jul 2020 - Aug 2020`
 - Designed and simulated 15+ network topologies in Cisco Packet Tracer and studied OSPF, EIGRP, VLANs, and ACLs.
 - Covered TCP/IP, subnetting, NAT, and network security configurations. Cleared MTA: Networking Fundamentals (98-366).
 
-**Android App Development Intern &bull; Azure Skynet Solutions** &mdash; Virtual &bull; `Mar 2020`
+**Android App Development Intern &bull; Azure Skynet Solutions** - Virtual &bull; `Mar 2020`
 - Built 5 Android applications in Java and Android Studio using Activities, Fragments, Services, and Broadcast Receivers.
 - Implemented GPS, camera, and local-storage features and applied Material Design and responsive layouts.
 
-**Machine Learning Intern &bull; Verzeo Edutech** &mdash; Bangalore, India &bull; `Jul 2019 - Aug 2019`
+**Machine Learning Intern &bull; Verzeo Edutech** - Bangalore, India &bull; `Jul 2019 - Aug 2019`
 - Built an Autism Spectrum Disorder prediction model with K-Nearest Neighbors and Random Forest, and explored NLP for text inputs.
 - Collaborated with a 5-intern team to deliver end-to-end ML projects. Cleared MTA: Python Programming (98-381).
+
+<br/>
+
+<h3 align="center">Internship Certificates</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="./assets/internships/Verzeo_ML_internship.jpg" width="220"><br>
+        <b>Machine Learning Internship</b><br>
+        <i>Verzeo Edutech Ltd.</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/internships/great-learning-internship.png" width="220"><br>
+        <b>Data Science Internship</b><br>
+        <i>Great Learning Pvt. Ltd.</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/internships/HPE_Internship_Certificate_CCNA.png" width="220"><br>
+        <b>CCNA Networking Internship</b><br>
+        <i>Hewlett Packard Enterprise</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="./assets/internships/Azure_Skynet_Internship.jpg" width="220"><br>
+        <b>Android App Development Internship</b><br>
+        <i>Azure Skynet Solutions Pvt. Ltd.</i>
+      </td>
+      <td align="center" colspan="2">
+        <img src="./assets/internships/web-development-inmovidu-internship1.png" width="220">
+        <img src="./assets/internships/web-development-inmovidu-internship2.png" width="220"><br>
+        <b>Web Development Internship</b><br>
+        <i>Inmovidu Technologies</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </details>
 
