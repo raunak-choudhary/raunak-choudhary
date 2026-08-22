@@ -116,14 +116,6 @@ I build production backend systems and AI applications. My 3 years at TCS spanne
 ![Kafka](https://img.shields.io/badge/Kafka-26A69A?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Platforms**
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-
-![GlideRecord](https://img.shields.io/badge/GlideRecord-4E9A51?style=flat-square)
-![Script Includes](https://img.shields.io/badge/Script_Includes-4E9A51?style=flat-square)
-![Business Rules](https://img.shields.io/badge/Business_Rules-4E9A51?style=flat-square)
-
 ---
 
 ## Professional Experience
